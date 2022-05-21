@@ -1,4 +1,4 @@
-package dionizio.victor.apifilmes.model
+package dionizio.victor.apifilmes.data.model
 
 data class MovieModel (
     val title: String,
